@@ -13,8 +13,12 @@ using FiltroLys.Type;
 
 namespace FiltroLys.Repository.Maestro.Contabilidad
 {
+
     public class datProyecto
     {
+
+        public const string sProc = "UP_MANT_PROYECTO";
+
         public static DataTable ListaFormID()
         {
             DataTable dt = new DataTable();
@@ -24,10 +28,10 @@ namespace FiltroLys.Repository.Maestro.Contabilidad
             {
                 Cmd.Connection = Cnx;
                 Cmd.Connection.Open();
-                Cmd.CommandText = tsqProyecto.QR_ListaFormID();
+                Cmd.CommandText = sProc;
                 Cmd.CommandType = CommandType.StoredProcedure;
 
-                SqlDataAdapter adapter = new SqlDataAdapter();               
+                SqlDataAdapter adapter = new SqlDataAdapter();
                 adapter.SelectCommand = Cmd;
                 adapter.SelectCommand.Parameters.AddWithValue("@Accion", Constans.LISTA);
                 adapter.SelectCommand.Parameters.AddWithValue("@Opcion", Constans.OPCION_1);
@@ -53,7 +57,7 @@ namespace FiltroLys.Repository.Maestro.Contabilidad
             {
                 Cmd.Connection = Cnx;
                 Cmd.Connection.Open();
-                Cmd.CommandText = tsqProyecto.QR_GetFormID();
+                Cmd.CommandText = sProc;
                 Cmd.CommandType = CommandType.StoredProcedure;
                 Cmd.Parameters.Add(new SqlParameter("@Accion", SqlDbType.VarChar)).Value = Constans.LISTA;
                 Cmd.Parameters.Add(new SqlParameter("@Opcion", SqlDbType.VarChar)).Value = Constans.OPCION_2;
@@ -84,7 +88,7 @@ namespace FiltroLys.Repository.Maestro.Contabilidad
             {
                 Cmd.Connection = Cnx;
                 Cmd.Connection.Open();
-                Cmd.CommandText = tsqProyecto.QR_ListaCombo();
+                Cmd.CommandText = sProc;
                 Cmd.CommandType = CommandType.StoredProcedure;
                 Cmd.Parameters.Add(new SqlParameter("@Accion", SqlDbType.VarChar)).Value = Constans.LISTA;
                 Cmd.Parameters.Add(new SqlParameter("@Opcion", SqlDbType.VarChar)).Value = Constans.OPCION_3;
@@ -114,7 +118,7 @@ namespace FiltroLys.Repository.Maestro.Contabilidad
             {
                 Cmd.Connection = Cnx;
                 Cmd.Connection.Open();
-                Cmd.CommandText = tsqProyecto.QR_ListaSearch();
+                Cmd.CommandText = sProc;
                 Cmd.CommandType = CommandType.StoredProcedure;
                 Cmd.Parameters.Add(new SqlParameter("@Accion", SqlDbType.VarChar)).Value = Constans.LISTA;
                 Cmd.Parameters.Add(new SqlParameter("@Opcion", SqlDbType.VarChar)).Value = Constans.OPCION_4;
@@ -154,39 +158,25 @@ namespace FiltroLys.Repository.Maestro.Contabilidad
 
                     Cmd.CommandType = CommandType.StoredProcedure;
                     Cmd.Parameters.Clear();
-                    Cmd.CommandText = tsqProyecto.QR_MantFormID(Data.OperMantenimiento);
+                    Cmd.CommandText = sProc;
 
-                    if (Data.OperMantenimiento == fnEnum.OperacionMant.Insertar || Data.OperMantenimiento == fnEnum.OperacionMant.Modificar)
-                    {
-                        if (Data.OperMantenimiento == fnEnum.OperacionMant.Insertar)
-                        {
-                            Cmd.Parameters.Add(new SqlParameter("@Accion", SqlDbType.VarChar)).Value = Constans.INSERTAR;
-                        }
-                        else if (Data.OperMantenimiento == fnEnum.OperacionMant.Modificar)
-                        {
-                            Cmd.Parameters.Add(new SqlParameter("@Accion", SqlDbType.VarChar)).Value = Constans.ACTUALIZAR;
-                        }
 
-                        Cmd.Parameters.Add(new SqlParameter("@Compania", SqlDbType.VarChar)).Value = Data.Compania;
-                        Cmd.Parameters.Add(new SqlParameter("@ProyectoCodigo", SqlDbType.VarChar)).Value = Data.ProyectoCodigo;
-                        Cmd.Parameters.Add(new SqlParameter("@Descripcion", SqlDbType.VarChar)).Value = Data.Descripcion;
-                        Cmd.Parameters.Add(new SqlParameter("@Presupuestado", SqlDbType.VarChar)).Value = fnParmCmd.DecDBNull(Data.Presupuestado, 0);
-                        Cmd.Parameters.Add(new SqlParameter("@MonedaProyecto", SqlDbType.VarChar)).Value = fnParmCmd.StrDBNull(Data.MonedaProyecto, "");
-                        Cmd.Parameters.Add(new SqlParameter("@FechaAprobacionProy", SqlDbType.DateTime)).Value = fnParmCmd.DatDBNull(Data.FechaAprobacionProy);
-                        Cmd.Parameters.Add(new SqlParameter("@FechaValidaDesde", SqlDbType.DateTime)).Value = fnParmCmd.DatDBNull(Data.FechaValidaDesde);
-                        Cmd.Parameters.Add(new SqlParameter("@FechaValidaHasta", SqlDbType.DateTime)).Value = fnParmCmd.DatDBNull(Data.FechaValidaHasta);
-                        Cmd.Parameters.Add(new SqlParameter("@EstadoAvance", SqlDbType.VarChar)).Value = fnParmCmd.StrDBNull(Data.EstadoAvance);
-                        Cmd.Parameters.Add(new SqlParameter("@Estado", SqlDbType.VarChar)).Value = Data.Estado;
-                        Cmd.Parameters.Add(new SqlParameter("@UltimoUsuario", SqlDbType.VarChar)).Value = Data.UsuarioSys;
-                        Cmd.ExecuteNonQuery();
-                    }
-                    else if (Data.OperMantenimiento == fnEnum.OperacionMant.Eliminar)
-                    {
-                        Cmd.Parameters.Add(new SqlParameter("@Accion", SqlDbType.VarChar)).Value = Constans.DELETE;
-                        Cmd.Parameters.Add(new SqlParameter("@Compania", SqlDbType.VarChar)).Value = Data.Compania;
-                        Cmd.Parameters.Add(new SqlParameter("@ProyectoCodigo", SqlDbType.VarChar)).Value = Data.ProyectoCodigo;
-                        Cmd.ExecuteNonQuery();
-                    }
+
+                    Cmd.Parameters.Add(new SqlParameter("@Accion", SqlDbType.VarChar)).Value = fnGetOpera.getOperacion(Data.OperMantenimiento);
+                    Cmd.Parameters.Add(new SqlParameter("@Compania", SqlDbType.VarChar)).Value = Data.Compania;
+                    Cmd.Parameters.Add(new SqlParameter("@ProyectoCodigo", SqlDbType.VarChar)).Value = Data.ProyectoCodigo;
+                    Cmd.Parameters.Add(new SqlParameter("@Descripcion", SqlDbType.VarChar)).Value = Data.Descripcion;
+                    Cmd.Parameters.Add(new SqlParameter("@Presupuestado", SqlDbType.VarChar)).Value = fnParmCmd.DecDBNull(Data.Presupuestado, 0);
+                    Cmd.Parameters.Add(new SqlParameter("@MonedaProyecto", SqlDbType.VarChar)).Value = fnParmCmd.StrDBNull(Data.MonedaProyecto, "");
+                    Cmd.Parameters.Add(new SqlParameter("@FechaAprobacionProy", SqlDbType.DateTime)).Value = fnParmCmd.DatDBNull(Data.FechaAprobacionProy);
+                    Cmd.Parameters.Add(new SqlParameter("@FechaValidaDesde", SqlDbType.DateTime)).Value = fnParmCmd.DatDBNull(Data.FechaValidaDesde);
+                    Cmd.Parameters.Add(new SqlParameter("@FechaValidaHasta", SqlDbType.DateTime)).Value = fnParmCmd.DatDBNull(Data.FechaValidaHasta);
+                    Cmd.Parameters.Add(new SqlParameter("@EstadoAvance", SqlDbType.VarChar)).Value = fnParmCmd.StrDBNull(Data.EstadoAvance);
+                    Cmd.Parameters.Add(new SqlParameter("@Estado", SqlDbType.VarChar)).Value = Data.Estado;
+                    Cmd.Parameters.Add(new SqlParameter("@UltimoUsuario", SqlDbType.VarChar)).Value = Data.UsuarioSys;
+                    Cmd.ExecuteNonQuery();
+
+
 
                     Trs.Commit();
                     entErr.Resultado = true;
