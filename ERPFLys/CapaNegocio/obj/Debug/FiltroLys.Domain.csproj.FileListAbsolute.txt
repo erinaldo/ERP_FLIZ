@@ -50,3 +50,16 @@ D:\Proyectos\ERPFLys\CapaNegocio\bin\Debug\FiltroLys.Query.pdb
 D:\Proyectos\ERPFLys\CapaNegocio\obj\Debug\FiltroLys.Domain.csprojResolveAssemblyReference.cache
 D:\Proyectos\ERPFLys\CapaNegocio\obj\Debug\FiltroLys.Domain.dll
 D:\Proyectos\ERPFLys\CapaNegocio\obj\Debug\FiltroLys.Domain.pdb
+D:\GIT_REPOSITORY\ERPFLys\CapaNegocio\bin\Debug\FiltroLys.Domain.dll
+D:\GIT_REPOSITORY\ERPFLys\CapaNegocio\bin\Debug\FiltroLys.Domain.pdb
+D:\GIT_REPOSITORY\ERPFLys\CapaNegocio\bin\Debug\FiltroLys.Model.dll
+D:\GIT_REPOSITORY\ERPFLys\CapaNegocio\bin\Debug\FiltroLys.Repository.dll
+D:\GIT_REPOSITORY\ERPFLys\CapaNegocio\bin\Debug\FiltroLys.Type.dll
+D:\GIT_REPOSITORY\ERPFLys\CapaNegocio\bin\Debug\FiltroLys.Query.dll
+D:\GIT_REPOSITORY\ERPFLys\CapaNegocio\bin\Debug\FiltroLys.Repository.pdb
+D:\GIT_REPOSITORY\ERPFLys\CapaNegocio\bin\Debug\FiltroLys.Model.pdb
+D:\GIT_REPOSITORY\ERPFLys\CapaNegocio\bin\Debug\FiltroLys.Type.pdb
+D:\GIT_REPOSITORY\ERPFLys\CapaNegocio\bin\Debug\FiltroLys.Query.pdb
+D:\GIT_REPOSITORY\ERPFLys\CapaNegocio\obj\Debug\FiltroLys.Domain.csprojResolveAssemblyReference.cache
+D:\GIT_REPOSITORY\ERPFLys\CapaNegocio\obj\Debug\FiltroLys.Domain.dll
+D:\GIT_REPOSITORY\ERPFLys\CapaNegocio\obj\Debug\FiltroLys.Domain.pdb

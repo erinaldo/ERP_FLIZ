@@ -42,3 +42,14 @@ D:\Proyectos\ERPFLys\CapaData\bin\Debug\FiltroLys.Type.pdb
 D:\Proyectos\ERPFLys\CapaData\obj\Debug\FiltroLys.Repository.csprojResolveAssemblyReference.cache
 D:\Proyectos\ERPFLys\CapaData\obj\Debug\FiltroLys.Repository.dll
 D:\Proyectos\ERPFLys\CapaData\obj\Debug\FiltroLys.Repository.pdb
+D:\GIT_REPOSITORY\ERPFLys\CapaData\bin\Debug\FiltroLys.Repository.dll
+D:\GIT_REPOSITORY\ERPFLys\CapaData\bin\Debug\FiltroLys.Repository.pdb
+D:\GIT_REPOSITORY\ERPFLys\CapaData\bin\Debug\FiltroLys.Model.dll
+D:\GIT_REPOSITORY\ERPFLys\CapaData\bin\Debug\FiltroLys.Query.dll
+D:\GIT_REPOSITORY\ERPFLys\CapaData\bin\Debug\FiltroLys.Type.dll
+D:\GIT_REPOSITORY\ERPFLys\CapaData\bin\Debug\FiltroLys.Model.pdb
+D:\GIT_REPOSITORY\ERPFLys\CapaData\bin\Debug\FiltroLys.Query.pdb
+D:\GIT_REPOSITORY\ERPFLys\CapaData\bin\Debug\FiltroLys.Type.pdb
+D:\GIT_REPOSITORY\ERPFLys\CapaData\obj\Debug\FiltroLys.Repository.csprojResolveAssemblyReference.cache
+D:\GIT_REPOSITORY\ERPFLys\CapaData\obj\Debug\FiltroLys.Repository.dll
+D:\GIT_REPOSITORY\ERPFLys\CapaData\obj\Debug\FiltroLys.Repository.pdb
