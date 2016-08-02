@@ -1,0 +1,20 @@
+D:\DATA MIGUEL\PTeam\Type\bin\Debug\FiltroLys.Type.dll
+D:\DATA MIGUEL\PTeam\Type\bin\Debug\FiltroLys.Type.pdb
+D:\DATA MIGUEL\PTeam\Type\obj\Debug\FiltroLys.Type.dll
+D:\DATA MIGUEL\PTeam\Type\obj\Debug\FiltroLys.Type.pdb
+D:\DATA MIGUEL\PTeam\Type\obj\Debug\FiltroLys.Type.csprojResolveAssemblyReference.cache
+D:\DATA MIGUEL\ERPLys\CapaType\bin\Debug\FiltroLys.Type.dll
+D:\DATA MIGUEL\ERPLys\CapaType\bin\Debug\FiltroLys.Type.pdb
+D:\DATA MIGUEL\ERPLys\CapaType\obj\Debug\FiltroLys.Type.csprojResolveAssemblyReference.cache
+D:\DATA MIGUEL\ERPLys\CapaType\obj\Debug\FiltroLys.Type.dll
+D:\DATA MIGUEL\ERPLys\CapaType\obj\Debug\FiltroLys.Type.pdb
+D:\DATA MIGUEL\ERPFLys\CapaType\bin\Debug\FiltroLys.Type.dll
+D:\DATA MIGUEL\ERPFLys\CapaType\bin\Debug\FiltroLys.Type.pdb
+D:\DATA MIGUEL\ERPFLys\CapaType\obj\Debug\FiltroLys.Type.csprojResolveAssemblyReference.cache
+D:\DATA MIGUEL\ERPFLys\CapaType\obj\Debug\FiltroLys.Type.dll
+D:\DATA MIGUEL\ERPFLys\CapaType\obj\Debug\FiltroLys.Type.pdb
+D:\Proyectos\ERPFLys\CapaType\bin\Debug\FiltroLys.Type.dll
+D:\Proyectos\ERPFLys\CapaType\bin\Debug\FiltroLys.Type.pdb
+D:\Proyectos\ERPFLys\CapaType\obj\Debug\FiltroLys.Type.csprojResolveAssemblyReference.cache
+D:\Proyectos\ERPFLys\CapaType\obj\Debug\FiltroLys.Type.dll
+D:\Proyectos\ERPFLys\CapaType\obj\Debug\FiltroLys.Type.pdb

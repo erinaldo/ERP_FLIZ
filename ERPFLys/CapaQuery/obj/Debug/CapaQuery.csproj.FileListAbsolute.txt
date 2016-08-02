@@ -1,0 +1,5 @@
+D:\DATA MIGUEL\PTeam\CapaQuery\bin\Debug\CapaQuery.dll
+D:\DATA MIGUEL\PTeam\CapaQuery\bin\Debug\CapaQuery.pdb
+D:\DATA MIGUEL\PTeam\CapaQuery\obj\Debug\CapaQuery.csprojResolveAssemblyReference.cache
+D:\DATA MIGUEL\PTeam\CapaQuery\obj\Debug\CapaQuery.dll
+D:\DATA MIGUEL\PTeam\CapaQuery\obj\Debug\CapaQuery.pdb

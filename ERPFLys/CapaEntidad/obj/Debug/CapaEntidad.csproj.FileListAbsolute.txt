@@ -1,0 +1,9 @@
+C:\Users\mmontero\Desktop\BorrarNET\PruebaForm\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\mmontero\Desktop\BorrarNET\PruebaForm\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\mmontero\Desktop\BorrarNET\PruebaForm\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\mmontero\Desktop\BorrarNET\PruebaForm\CapaEntidad\obj\Debug\CapaEntidad.pdb
+D:\DATA MIGUEL\PTeam\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\DATA MIGUEL\PTeam\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\DATA MIGUEL\PTeam\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\DATA MIGUEL\PTeam\CapaEntidad\obj\Debug\CapaEntidad.pdb
+D:\DATA MIGUEL\PTeam\CapaEntidad\obj\Debug\CapaEntidad.csprojResolveAssemblyReference.cache

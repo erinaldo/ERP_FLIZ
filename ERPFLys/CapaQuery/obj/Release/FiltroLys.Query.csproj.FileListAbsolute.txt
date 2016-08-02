@@ -1,0 +1,9 @@
+D:\Proyectos\ERPFLys\CapaQuery\bin\Release\FiltroLys.Query.dll
+D:\Proyectos\ERPFLys\CapaQuery\bin\Release\FiltroLys.Query.pdb
+D:\Proyectos\ERPFLys\CapaQuery\bin\Release\FiltroLys.Model.dll
+D:\Proyectos\ERPFLys\CapaQuery\bin\Release\FiltroLys.Type.dll
+D:\Proyectos\ERPFLys\CapaQuery\bin\Release\FiltroLys.Model.pdb
+D:\Proyectos\ERPFLys\CapaQuery\bin\Release\FiltroLys.Type.pdb
+D:\Proyectos\ERPFLys\CapaQuery\obj\Release\FiltroLys.Query.csprojResolveAssemblyReference.cache
+D:\Proyectos\ERPFLys\CapaQuery\obj\Release\FiltroLys.Query.dll
+D:\Proyectos\ERPFLys\CapaQuery\obj\Release\FiltroLys.Query.pdb

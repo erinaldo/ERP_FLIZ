@@ -1,0 +1,5 @@
+D:\DATA MIGUEL\PTeam\Type\bin\Debug\FiltrosLys.Type.dll
+D:\DATA MIGUEL\PTeam\Type\bin\Debug\FiltrosLys.Type.pdb
+D:\DATA MIGUEL\PTeam\Type\obj\Debug\FiltrosLys.Type.csprojResolveAssemblyReference.cache
+D:\DATA MIGUEL\PTeam\Type\obj\Debug\FiltrosLys.Type.dll
+D:\DATA MIGUEL\PTeam\Type\obj\Debug\FiltrosLys.Type.pdb

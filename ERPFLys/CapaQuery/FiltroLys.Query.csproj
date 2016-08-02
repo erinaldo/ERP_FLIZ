@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{03152E9C-123C-4CFD-A47B-B8FEA49CE71D}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>FiltroLys.Query</RootNamespace>
+    <AssemblyName>FiltroLys.Query</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Contabilidad\tsqReporteCB.cs" />
+    <Compile Include="Contabilidad\tsqCierreMesCuenta.cs" />
+    <Compile Include="Logistica\tsqOrdenes.cs" />
+    <Compile Include="Maestro\Contabilidad\tsqCompCContable.cs" />
+    <Compile Include="Maestro\Contabilidad\tsqRubroCtaContable.cs" />
+    <Compile Include="Maestro\Contabilidad\tsqTipoGasto.cs" />
+    <Compile Include="Maestro\Contabilidad\tsqRubroGasto.cs" />
+    <Compile Include="Maestro\Contabilidad\tsqLineaProducto.cs" />
+    <Compile Include="Maestro\Contabilidad\tsqTipoActivo.cs" />
+    <Compile Include="Maestro\Contabilidad\tsqElementoGasto.cs" />
+    <Compile Include="Maestro\Contabilidad\tsqCuentaContableRel.cs" />
+    <Compile Include="Maestro\Contabilidad\tsqGrupoElementoGasto.cs" />
+    <Compile Include="Maestro\Contabilidad\tsqTipoCuentaBalComp.cs" />
+    <Compile Include="Maestro\Contabilidad\tsqCuentaMayor05.cs" />
+    <Compile Include="Maestro\Contabilidad\tsqCuentaMayor04.cs" />
+    <Compile Include="Maestro\Contabilidad\tsqCuentaMayor.cs" />
+    <Compile Include="Maestro\Contabilidad\tsqAsientoModelo.cs" />
+    <Compile Include="Maestro\Contabilidad\tsqArea.cs" />
+    <Compile Include="Maestro\Contabilidad\tsqClasificacionMayor.cs" />
+    <Compile Include="Maestro\Contabilidad\tsqProyecto.cs" />
+    <Compile Include="Maestro\Contabilidad\tsqCuentaContable.cs" />
+    <Compile Include="Maestro\Contabilidad\tsqFlujoCaja.cs" />
+    <Compile Include="Maestro\Contabilidad\tsqTipoVoucher.cs" />
+    <Compile Include="Contabilidad\tsqVoucher.cs" />
+    <Compile Include="Maestro\Contabilidad\tsqCorrelativoVoucher.cs" />
+    <Compile Include="Maestro\General\tsqTipoCambioPeriodo.cs" />
+    <Compile Include="Maestro\General\tsqDistrito.cs" />
+    <Compile Include="Maestro\General\tsqProvincia.cs" />
+    <Compile Include="Maestro\General\tsqDepartamento.cs" />
+    <Compile Include="Maestro\General\tsqPaises.cs" />
+    <Compile Include="Maestro\General\tsqProveedor.cs" />
+    <Compile Include="Maestro\General\tsqCliente.cs" />
+    <Compile Include="Maestro\General\tsqGeneral.cs" />
+    <Compile Include="Maestro\General\tsqParametro.cs" />
+    <Compile Include="Maestro\General\tsqTipoCambio.cs" />
+    <Compile Include="Maestro\General\tsqCentroCosto.cs" />
+    <Compile Include="Maestro\General\tsqCompania.cs" />
+    <Compile Include="Maestro\General\tsqDepartCia.cs" />
+    <Compile Include="Maestro\General\tsqPeriodoCia.cs" />
+    <Compile Include="Maestro\General\tsqPersona.cs" />
+    <Compile Include="Maestro\Mantenimiento\tsqMaquina.cs" />
+    <Compile Include="Maestro\RRHH\tsqTipoPersonaUsuario.cs" />
+    <Compile Include="Maestro\RRHH\tsqEmpleado.cs" />
+    <Compile Include="Maestro\RRHH\tsqSucursal.cs" />
+    <Compile Include="Maestro\RRHH\tsqGrupoCCosto.cs" />
+    <Compile Include="Maestro\RRHH\tsqClasifiGCCosto.cs" />
+    <Compile Include="Maestro\RRHH\tsqCargo.cs" />
+    <Compile Include="Maestro\RRHH\tsqClasificacionCentroCosto.cs" />
+    <Compile Include="Maestro\Tesoreria\tsqRegimenFiscal.cs" />
+    <Compile Include="Maestro\Tesoreria\tsqTipoServicio.cs" />
+    <Compile Include="Maestro\Tesoreria\tsqTipoPago.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Seguridad\tsqUsuario.cs" />
+    <Compile Include="Seguridad\tsqAuditoria.cs" />
+    <Compile Include="Seguridad\tsqSeguridad.cs" />
+    <Compile Include="Sistema\tsqTabla.cs" />
+    <Compile Include="Tesoreria\tsqObligacion.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\CapaEntidad\FiltroLys.Model.csproj">
+      <Project>{caaf55cc-66b2-4dc0-9094-99a2d06f4f65}</Project>
+      <Name>FiltroLys.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CapaType\FiltroLys.Type.csproj">
+      <Project>{ab9b3207-0709-4864-b891-8412f6926f9a}</Project>
+      <Name>FiltroLys.Type</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

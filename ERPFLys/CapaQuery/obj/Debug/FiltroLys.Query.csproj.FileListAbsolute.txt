@@ -1,0 +1,36 @@
+D:\DATA MIGUEL\PTeam\CapaQuery\bin\Debug\FiltroLys.Query.dll
+D:\DATA MIGUEL\PTeam\CapaQuery\bin\Debug\FiltroLys.Query.pdb
+D:\DATA MIGUEL\PTeam\CapaQuery\obj\Debug\FiltroLys.Query.csprojResolveAssemblyReference.cache
+D:\DATA MIGUEL\PTeam\CapaQuery\obj\Debug\FiltroLys.Query.dll
+D:\DATA MIGUEL\PTeam\CapaQuery\obj\Debug\FiltroLys.Query.pdb
+D:\DATA MIGUEL\PTeam\CapaQuery\bin\Debug\FiltroLys.Model.dll
+D:\DATA MIGUEL\PTeam\CapaQuery\bin\Debug\FiltroLys.Model.pdb
+D:\DATA MIGUEL\PTeam\CapaQuery\bin\Debug\FiltroLys.Type.dll
+D:\DATA MIGUEL\PTeam\CapaQuery\bin\Debug\FiltroLys.Type.pdb
+D:\DATA MIGUEL\ERPLys\CapaQuery\bin\Debug\FiltroLys.Query.dll
+D:\DATA MIGUEL\ERPLys\CapaQuery\bin\Debug\FiltroLys.Query.pdb
+D:\DATA MIGUEL\ERPLys\CapaQuery\bin\Debug\FiltroLys.Model.dll
+D:\DATA MIGUEL\ERPLys\CapaQuery\bin\Debug\FiltroLys.Type.dll
+D:\DATA MIGUEL\ERPLys\CapaQuery\bin\Debug\FiltroLys.Model.pdb
+D:\DATA MIGUEL\ERPLys\CapaQuery\bin\Debug\FiltroLys.Type.pdb
+D:\DATA MIGUEL\ERPLys\CapaQuery\obj\Debug\FiltroLys.Query.csprojResolveAssemblyReference.cache
+D:\DATA MIGUEL\ERPLys\CapaQuery\obj\Debug\FiltroLys.Query.dll
+D:\DATA MIGUEL\ERPLys\CapaQuery\obj\Debug\FiltroLys.Query.pdb
+D:\DATA MIGUEL\ERPFLys\CapaQuery\bin\Debug\FiltroLys.Query.dll
+D:\DATA MIGUEL\ERPFLys\CapaQuery\bin\Debug\FiltroLys.Query.pdb
+D:\DATA MIGUEL\ERPFLys\CapaQuery\bin\Debug\FiltroLys.Model.dll
+D:\DATA MIGUEL\ERPFLys\CapaQuery\bin\Debug\FiltroLys.Type.dll
+D:\DATA MIGUEL\ERPFLys\CapaQuery\bin\Debug\FiltroLys.Model.pdb
+D:\DATA MIGUEL\ERPFLys\CapaQuery\bin\Debug\FiltroLys.Type.pdb
+D:\DATA MIGUEL\ERPFLys\CapaQuery\obj\Debug\FiltroLys.Query.csprojResolveAssemblyReference.cache
+D:\DATA MIGUEL\ERPFLys\CapaQuery\obj\Debug\FiltroLys.Query.dll
+D:\DATA MIGUEL\ERPFLys\CapaQuery\obj\Debug\FiltroLys.Query.pdb
+D:\Proyectos\ERPFLys\CapaQuery\bin\Debug\FiltroLys.Query.dll
+D:\Proyectos\ERPFLys\CapaQuery\bin\Debug\FiltroLys.Query.pdb
+D:\Proyectos\ERPFLys\CapaQuery\bin\Debug\FiltroLys.Model.dll
+D:\Proyectos\ERPFLys\CapaQuery\bin\Debug\FiltroLys.Type.dll
+D:\Proyectos\ERPFLys\CapaQuery\bin\Debug\FiltroLys.Model.pdb
+D:\Proyectos\ERPFLys\CapaQuery\bin\Debug\FiltroLys.Type.pdb
+D:\Proyectos\ERPFLys\CapaQuery\obj\Debug\FiltroLys.Query.csprojResolveAssemblyReference.cache
+D:\Proyectos\ERPFLys\CapaQuery\obj\Debug\FiltroLys.Query.dll
+D:\Proyectos\ERPFLys\CapaQuery\obj\Debug\FiltroLys.Query.pdb

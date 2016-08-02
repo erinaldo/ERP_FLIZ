@@ -1,0 +1,5 @@
+D:\Proyectos\ERPFLys\CapaType\bin\Release\FiltroLys.Type.dll
+D:\Proyectos\ERPFLys\CapaType\bin\Release\FiltroLys.Type.pdb
+D:\Proyectos\ERPFLys\CapaType\obj\Release\FiltroLys.Type.csprojResolveAssemblyReference.cache
+D:\Proyectos\ERPFLys\CapaType\obj\Release\FiltroLys.Type.dll
+D:\Proyectos\ERPFLys\CapaType\obj\Release\FiltroLys.Type.pdb

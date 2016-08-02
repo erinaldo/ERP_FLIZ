@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiltroLys.ZLys", "FiltroLys.ZLys.csproj", "{18F0B3F6-59FD-4328-916C-A183EDD3B8F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiltroLys.Type", "..\CapaType\FiltroLys.Type.csproj", "{AB9B3207-0709-4864-B891-8412F6926F9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiltroLys.Model", "..\CapaEntidad\FiltroLys.Model.csproj", "{CAAF55CC-66B2-4DC0-9094-99A2D06F4F65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiltroLys.Query", "..\CapaQuery\FiltroLys.Query.csproj", "{03152E9C-123C-4CFD-A47B-B8FEA49CE71D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiltroLys.Repository", "..\CapaData\FiltroLys.Repository.csproj", "{606A2B56-1D0E-4725-B24B-D1E195B2CD2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiltroLys.Domain", "..\CapaNegocio\FiltroLys.Domain.csproj", "{289D4B73-4A0A-4156-9FAE-3EE5E9CDB58C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18F0B3F6-59FD-4328-916C-A183EDD3B8F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18F0B3F6-59FD-4328-916C-A183EDD3B8F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18F0B3F6-59FD-4328-916C-A183EDD3B8F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18F0B3F6-59FD-4328-916C-A183EDD3B8F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB9B3207-0709-4864-B891-8412F6926F9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB9B3207-0709-4864-B891-8412F6926F9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB9B3207-0709-4864-B891-8412F6926F9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB9B3207-0709-4864-B891-8412F6926F9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAAF55CC-66B2-4DC0-9094-99A2D06F4F65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAAF55CC-66B2-4DC0-9094-99A2D06F4F65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAAF55CC-66B2-4DC0-9094-99A2D06F4F65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAAF55CC-66B2-4DC0-9094-99A2D06F4F65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03152E9C-123C-4CFD-A47B-B8FEA49CE71D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03152E9C-123C-4CFD-A47B-B8FEA49CE71D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03152E9C-123C-4CFD-A47B-B8FEA49CE71D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03152E9C-123C-4CFD-A47B-B8FEA49CE71D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{606A2B56-1D0E-4725-B24B-D1E195B2CD2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{606A2B56-1D0E-4725-B24B-D1E195B2CD2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{606A2B56-1D0E-4725-B24B-D1E195B2CD2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{606A2B56-1D0E-4725-B24B-D1E195B2CD2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{289D4B73-4A0A-4156-9FAE-3EE5E9CDB58C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{289D4B73-4A0A-4156-9FAE-3EE5E9CDB58C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{289D4B73-4A0A-4156-9FAE-3EE5E9CDB58C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{289D4B73-4A0A-4156-9FAE-3EE5E9CDB58C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

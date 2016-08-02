@@ -1,0 +1,20 @@
+C:\Users\mmontero\Desktop\BorrarNET\PruebaForm\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\mmontero\Desktop\BorrarNET\PruebaForm\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\mmontero\Desktop\BorrarNET\PruebaForm\CapaNegocio\bin\Debug\CapaData.dll
+C:\Users\mmontero\Desktop\BorrarNET\PruebaForm\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\mmontero\Desktop\BorrarNET\PruebaForm\CapaNegocio\bin\Debug\CapaData.pdb
+C:\Users\mmontero\Desktop\BorrarNET\PruebaForm\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\mmontero\Desktop\BorrarNET\PruebaForm\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\mmontero\Desktop\BorrarNET\PruebaForm\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\mmontero\Desktop\BorrarNET\PruebaForm\CapaNegocio\obj\Debug\CapaNegocio.pdb
+D:\DATA MIGUEL\PTeam\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\DATA MIGUEL\PTeam\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\DATA MIGUEL\PTeam\CapaNegocio\bin\Debug\CapaData.dll
+D:\DATA MIGUEL\PTeam\CapaNegocio\bin\Debug\CapaEntidad.dll
+D:\DATA MIGUEL\PTeam\CapaNegocio\bin\Debug\CapaData.pdb
+D:\DATA MIGUEL\PTeam\CapaNegocio\bin\Debug\CapaEntidad.pdb
+D:\DATA MIGUEL\PTeam\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+D:\DATA MIGUEL\PTeam\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\DATA MIGUEL\PTeam\CapaNegocio\obj\Debug\CapaNegocio.pdb
+D:\DATA MIGUEL\PTeam\CapaNegocio\bin\Debug\CapaQuery.dll
+D:\DATA MIGUEL\PTeam\CapaNegocio\bin\Debug\CapaQuery.pdb

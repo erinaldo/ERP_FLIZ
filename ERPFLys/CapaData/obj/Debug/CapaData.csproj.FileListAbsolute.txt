@@ -1,0 +1,16 @@
+C:\Users\mmontero\Desktop\BorrarNET\PruebaForm\CapaData\obj\Debug\CapaData.csprojResolveAssemblyReference.cache
+C:\Users\mmontero\Desktop\BorrarNET\PruebaForm\CapaData\bin\Debug\CapaData.dll
+C:\Users\mmontero\Desktop\BorrarNET\PruebaForm\CapaData\bin\Debug\CapaData.pdb
+C:\Users\mmontero\Desktop\BorrarNET\PruebaForm\CapaData\obj\Debug\CapaData.dll
+C:\Users\mmontero\Desktop\BorrarNET\PruebaForm\CapaData\obj\Debug\CapaData.pdb
+C:\Users\mmontero\Desktop\BorrarNET\PruebaForm\CapaData\bin\Debug\CapaEntidad.dll
+C:\Users\mmontero\Desktop\BorrarNET\PruebaForm\CapaData\bin\Debug\CapaEntidad.pdb
+D:\DATA MIGUEL\PTeam\CapaData\bin\Debug\CapaData.dll
+D:\DATA MIGUEL\PTeam\CapaData\bin\Debug\CapaData.pdb
+D:\DATA MIGUEL\PTeam\CapaData\bin\Debug\CapaEntidad.dll
+D:\DATA MIGUEL\PTeam\CapaData\bin\Debug\CapaEntidad.pdb
+D:\DATA MIGUEL\PTeam\CapaData\obj\Debug\CapaData.csprojResolveAssemblyReference.cache
+D:\DATA MIGUEL\PTeam\CapaData\obj\Debug\CapaData.dll
+D:\DATA MIGUEL\PTeam\CapaData\obj\Debug\CapaData.pdb
+D:\DATA MIGUEL\PTeam\CapaData\bin\Debug\CapaQuery.dll
+D:\DATA MIGUEL\PTeam\CapaData\bin\Debug\CapaQuery.pdb

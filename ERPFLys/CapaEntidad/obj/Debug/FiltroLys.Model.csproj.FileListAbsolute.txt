@@ -1,0 +1,28 @@
+D:\DATA MIGUEL\PTeam\CapaEntidad\bin\Debug\FiltroLys.Model.dll
+D:\DATA MIGUEL\PTeam\CapaEntidad\bin\Debug\FiltroLys.Model.pdb
+D:\DATA MIGUEL\PTeam\CapaEntidad\obj\Debug\FiltroLys.Model.csprojResolveAssemblyReference.cache
+D:\DATA MIGUEL\PTeam\CapaEntidad\obj\Debug\FiltroLys.Model.dll
+D:\DATA MIGUEL\PTeam\CapaEntidad\obj\Debug\FiltroLys.Model.pdb
+D:\DATA MIGUEL\PTeam\CapaEntidad\bin\Debug\FiltroLys.Type.dll
+D:\DATA MIGUEL\PTeam\CapaEntidad\bin\Debug\FiltroLys.Type.pdb
+D:\DATA MIGUEL\ERPLys\CapaEntidad\bin\Debug\FiltroLys.Model.dll
+D:\DATA MIGUEL\ERPLys\CapaEntidad\bin\Debug\FiltroLys.Model.pdb
+D:\DATA MIGUEL\ERPLys\CapaEntidad\bin\Debug\FiltroLys.Type.dll
+D:\DATA MIGUEL\ERPLys\CapaEntidad\bin\Debug\FiltroLys.Type.pdb
+D:\DATA MIGUEL\ERPLys\CapaEntidad\obj\Debug\FiltroLys.Model.csprojResolveAssemblyReference.cache
+D:\DATA MIGUEL\ERPLys\CapaEntidad\obj\Debug\FiltroLys.Model.dll
+D:\DATA MIGUEL\ERPLys\CapaEntidad\obj\Debug\FiltroLys.Model.pdb
+D:\DATA MIGUEL\ERPFLys\CapaEntidad\obj\Debug\FiltroLys.Model.csprojResolveAssemblyReference.cache
+D:\DATA MIGUEL\ERPFLys\CapaEntidad\obj\Debug\FiltroLys.Model.dll
+D:\DATA MIGUEL\ERPFLys\CapaEntidad\bin\Debug\FiltroLys.Model.dll
+D:\DATA MIGUEL\ERPFLys\CapaEntidad\bin\Debug\FiltroLys.Model.pdb
+D:\DATA MIGUEL\ERPFLys\CapaEntidad\bin\Debug\FiltroLys.Type.dll
+D:\DATA MIGUEL\ERPFLys\CapaEntidad\bin\Debug\FiltroLys.Type.pdb
+D:\DATA MIGUEL\ERPFLys\CapaEntidad\obj\Debug\FiltroLys.Model.pdb
+D:\Proyectos\ERPFLys\CapaEntidad\bin\Debug\FiltroLys.Model.dll
+D:\Proyectos\ERPFLys\CapaEntidad\bin\Debug\FiltroLys.Model.pdb
+D:\Proyectos\ERPFLys\CapaEntidad\bin\Debug\FiltroLys.Type.dll
+D:\Proyectos\ERPFLys\CapaEntidad\bin\Debug\FiltroLys.Type.pdb
+D:\Proyectos\ERPFLys\CapaEntidad\obj\Debug\FiltroLys.Model.csprojResolveAssemblyReference.cache
+D:\Proyectos\ERPFLys\CapaEntidad\obj\Debug\FiltroLys.Model.dll
+D:\Proyectos\ERPFLys\CapaEntidad\obj\Debug\FiltroLys.Model.pdb

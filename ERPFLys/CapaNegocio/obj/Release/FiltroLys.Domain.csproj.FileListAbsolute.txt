@@ -1,0 +1,13 @@
+D:\Proyectos\ERPFLys\CapaNegocio\bin\Release\FiltroLys.Domain.dll
+D:\Proyectos\ERPFLys\CapaNegocio\bin\Release\FiltroLys.Domain.pdb
+D:\Proyectos\ERPFLys\CapaNegocio\bin\Release\FiltroLys.Model.dll
+D:\Proyectos\ERPFLys\CapaNegocio\bin\Release\FiltroLys.Repository.dll
+D:\Proyectos\ERPFLys\CapaNegocio\bin\Release\FiltroLys.Type.dll
+D:\Proyectos\ERPFLys\CapaNegocio\bin\Release\FiltroLys.Query.dll
+D:\Proyectos\ERPFLys\CapaNegocio\bin\Release\FiltroLys.Repository.pdb
+D:\Proyectos\ERPFLys\CapaNegocio\bin\Release\FiltroLys.Model.pdb
+D:\Proyectos\ERPFLys\CapaNegocio\bin\Release\FiltroLys.Type.pdb
+D:\Proyectos\ERPFLys\CapaNegocio\bin\Release\FiltroLys.Query.pdb
+D:\Proyectos\ERPFLys\CapaNegocio\obj\Release\FiltroLys.Domain.csprojResolveAssemblyReference.cache
+D:\Proyectos\ERPFLys\CapaNegocio\obj\Release\FiltroLys.Domain.dll
+D:\Proyectos\ERPFLys\CapaNegocio\obj\Release\FiltroLys.Domain.pdb

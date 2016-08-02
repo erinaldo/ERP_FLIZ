@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CAAF55CC-66B2-4DC0-9094-99A2D06F4F65}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>FiltroLys.Model</RootNamespace>
+    <AssemblyName>FiltroLys.Model</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Contabilidad\entCierreMesCuenta.cs" />
+    <Compile Include="Logistica\entOrdenes.cs" />
+    <Compile Include="Logistica\entOrdenesDet.cs" />
+    <Compile Include="Maestro\Contabilidad\entCompCContable.cs" />
+    <Compile Include="Maestro\Contabilidad\entRubroCtaContable.cs" />
+    <Compile Include="Maestro\General\entTipoCambioPeriodo.cs" />
+    <Compile Include="Maestro\Tesoreria\entRegimenFiscal.cs" />
+    <Compile Include="Maestro\Tesoreria\entTipoServicio.cs" />
+    <Compile Include="Maestro\Tesoreria\entTipoPago.cs" />
+    <Compile Include="Maestro\Contabilidad\entTipoGasto.cs" />
+    <Compile Include="Maestro\Contabilidad\entRubroGasto.cs" />
+    <Compile Include="Maestro\Contabilidad\entTipoActivo.cs" />
+    <Compile Include="Maestro\Contabilidad\entLineaProducto.cs" />
+    <Compile Include="Maestro\Contabilidad\entElementoGasto.cs" />
+    <Compile Include="Maestro\Contabilidad\entGrupoElementoGasto.cs" />
+    <Compile Include="Maestro\Contabilidad\entCuentaContableRel.cs" />
+    <Compile Include="Maestro\Contabilidad\entTipoCuentaBalComp.cs" />
+    <Compile Include="Maestro\Contabilidad\entArea.cs" />
+    <Compile Include="Maestro\Contabilidad\entClasificacionMayor.cs" />
+    <Compile Include="Maestro\Contabilidad\entCorrelativoVoucher.cs" />
+    <Compile Include="Maestro\Contabilidad\entAsientoModelo.cs" />
+    <Compile Include="Maestro\Contabilidad\entAsientoModeloDet.cs" />
+    <Compile Include="Maestro\Contabilidad\entCuentaMayor.cs" />
+    <Compile Include="Maestro\Contabilidad\entCuentaMayor04.cs" />
+    <Compile Include="Maestro\Contabilidad\entCuentaMayor05.cs" />
+    <Compile Include="Maestro\Contabilidad\entFlujoCaja.cs" />
+    <Compile Include="Maestro\Contabilidad\entProyecto.cs" />
+    <Compile Include="Maestro\Contabilidad\entTipoVoucher.cs" />
+    <Compile Include="Contabilidad\entVoucher.cs" />
+    <Compile Include="Contabilidad\entVoucherDet.cs" />
+    <Compile Include="entBase.cs" />
+    <Compile Include="Maestro\General\entDistrito.cs" />
+    <Compile Include="Maestro\General\entProvincia.cs" />
+    <Compile Include="Maestro\General\entDepartamento.cs" />
+    <Compile Include="Maestro\General\entCentroCosto.cs" />
+    <Compile Include="Maestro\General\entCompania.cs" />
+    <Compile Include="Maestro\General\entDepartCia.cs" />
+    <Compile Include="Maestro\General\entPaises.cs" />
+    <Compile Include="Maestro\General\entParametro.cs" />
+    <Compile Include="Maestro\General\entPeriodoCia.cs" />
+    <Compile Include="Maestro\General\entPersona.cs" />
+    <Compile Include="Maestro\General\entTipoCambio.cs" />
+    <Compile Include="Maestro\Mantenimiento\entMaquina.cs" />
+    <Compile Include="Maestro\Contabilidad\entCuentaContable.cs" />
+    <Compile Include="Maestro\RRHH\entTipoPersonaUsuario.cs" />
+    <Compile Include="Maestro\RRHH\entEmpleado.cs" />
+    <Compile Include="Maestro\RRHH\entSucursal.cs" />
+    <Compile Include="Maestro\RRHH\entCargo.cs" />
+    <Compile Include="Maestro\RRHH\entClasificacionCentroCosto.cs" />
+    <Compile Include="Maestro\RRHH\entClasifiGCCosto.cs" />
+    <Compile Include="Maestro\RRHH\entGrupoCCosto.cs" />
+    <Compile Include="Objeto\entComboList.cs" />
+    <Compile Include="Objeto\entErrores.cs" />
+    <Compile Include="Objeto\entEstructForm.cs" />
+    <Compile Include="Objeto\entFormatGV.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Seguridad\entMenReporte.cs" />
+    <Compile Include="Seguridad\entUsuario.cs" />
+    <Compile Include="Seguridad\entAuditoria.cs" />
+    <Compile Include="Seguridad\entAcceso.cs" />
+    <Compile Include="Sistema\entConexion.cs" />
+    <Compile Include="Sistema\entColumna.cs" />
+    <Compile Include="Sistema\entReporte.cs" />
+    <Compile Include="Sistema\entTabla.cs" />
+    <Compile Include="Tesoreria\entObligacion.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CapaType\FiltroLys.Type.csproj">
+      <Project>{ab9b3207-0709-4864-b891-8412f6926f9a}</Project>
+      <Name>FiltroLys.Type</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

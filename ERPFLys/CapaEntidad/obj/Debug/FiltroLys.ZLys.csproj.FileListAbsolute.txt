@@ -1,0 +1,190 @@
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.Inicio.frmLogin.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.Inicio.frmMdi.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\DevExpress.XtraBars.Demos.RibbonSimplePad.HelpControl.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.Properties.Resources.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\DevExpress.XtraBars.Demos.RibbonSimplePad.RibbonApplicationUserControl.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.Inicio.frmSplash.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.csproj.GenerateResource.Cache
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.exe.licenses
+D:\DATA MIGUEL\ERPFLys\CapaZLys\bin\Debug\FiltroLys.ZLys.exe.config
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.csprojResolveAssemblyReference.cache
+D:\DATA MIGUEL\ERPFLys\CapaZLys\bin\Debug\FiltroLys.ZLys.exe
+D:\DATA MIGUEL\ERPFLys\CapaZLys\bin\Debug\FiltroLys.ZLys.pdb
+D:\DATA MIGUEL\ERPFLys\CapaZLys\bin\Debug\FiltroLys.Domain.dll
+D:\DATA MIGUEL\ERPFLys\CapaZLys\bin\Debug\FiltroLys.Model.dll
+D:\DATA MIGUEL\ERPFLys\CapaZLys\bin\Debug\FiltroLys.Type.dll
+D:\DATA MIGUEL\ERPFLys\CapaZLys\bin\Debug\FiltroLys.Repository.dll
+D:\DATA MIGUEL\ERPFLys\CapaZLys\bin\Debug\FiltroLys.Query.dll
+D:\DATA MIGUEL\ERPFLys\CapaZLys\bin\Debug\FiltroLys.Model.pdb
+D:\DATA MIGUEL\ERPFLys\CapaZLys\bin\Debug\FiltroLys.Domain.pdb
+D:\DATA MIGUEL\ERPFLys\CapaZLys\bin\Debug\FiltroLys.Type.pdb
+D:\DATA MIGUEL\ERPFLys\CapaZLys\bin\Debug\FiltroLys.Repository.pdb
+D:\DATA MIGUEL\ERPFLys\CapaZLys\bin\Debug\FiltroLys.Query.pdb
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.exe
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.pdb
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.Controles.Formulario.frmMain.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.Controles.Formulario.frmList.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.Seguridad.frmListAuditoria.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.Sistema.frmListTabla.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.Inicio.frmInicioContabilidad.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModContabilidad.frmVoucherList.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.Controles.Formulario.frmMant.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModContabilidad.frmVoucherMant.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.Controles.Objeto.GridControlUI.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.Controles.Formulario.frmResponse.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.Busqueda.General.frmBusqMain.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.Busqueda.General.frmBusqCtaContable.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.Busqueda.General.frmBusqMaquina.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.Busqueda.General.frmBusqCentroCosto.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.Busqueda.General.frmBusqFlujoCaja.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.Busqueda.General.frmBusqProyecto.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.Busqueda.General.frmBusqPersona.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.Busqueda.Contabilidad.frmBusqObligacion.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.Busqueda.Contabilidad.frmBusqImportacion.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.Busqueda.Contabilidad.frmBusqAsientoModelo.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.Errores.frmErrMain.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModContabilidad.frmMayorizacionList.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModContabilidad.frmMayorizacionGene.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.Inicio.frmProgresoBar.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModContabilidad.frmSaldoxCuenta.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModContabilidad.frmSaldoxCuentaDet.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModContabilidad.frmCierreMensual.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModContabilidad.frmSelPeriodoTrabajo.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModContabilidad.frmBloqPeriodoTrabajo.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModMaestro.frmMaestrosMain.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.Controles.Formulario.frmMaestro.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModMaestro.Contabilidad.frmArea.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModMaestro.Contabilidad.frmAsientoModelo.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModMaestro.RRHH.frmClasifCentroCosto.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModMaestro.Contabilidad.frmClasificacionMayor.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModMaestro.Contabilidad.frmCorrelativoVoucher.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModMaestro.Contabilidad.frmCuentaMayor.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModMaestro.Contabilidad.frmCuentaMayor05.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModMaestro.Contabilidad.frmCuentaMayor04.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModMaestro.Contabilidad.frmRelCtaGenEmp.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModMaestro.RRHH.frmCentroCosto.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModMaestro.General.frmPaises.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModMaestro.General.frmDepartamento.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModMaestro.General.frmProvincia.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModMaestro.General.frmDistrito.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModMaestro.RRHH.frmDepartCia.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModMaestro.Contabilidad.frmGrupoElementoGasto.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModMaestro.Contabilidad.frmElementoGasto.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModMaestro.Contabilidad.frmLineaProducto.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModMaestro.Contabilidad.frmTipoActivo.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModMaestro.General.frmParametro.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModMaestro.General.frmPeriodoCierreCia.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModMaestro.RRHH.frmTipoPersonaUsuario.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModMaestro.Contabilidad.frmRubroGasto.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModMaestro.Contabilidad.frmProyecto.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModMaestro.RRHH.frmSucursal.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModMaestro.Contabilidad.frmTipoCuentaBalComp.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModMaestro.Contabilidad.frmTipoGasto.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModMaestro.Tesoreria.frmTipoPago.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModMaestro.Tesoreria.frmTipoServicio.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModMaestro.Contabilidad.frmTipoVoucher.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModMaestro.General.frmTipoCambio.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModMaestro.General.frmTipoCambioPeriodo.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModMaestro.Contabilidad.frmCuentaContable.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.PrintRibbonControllerResources.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.XRDesignRibbonControllerResources.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModReporte.frmReportesMain.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.Inicio.frmEspere.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.Controles.Formulario.frmReporte.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModReporte.Formulario.Contabilidad.frmRptLibroDiario.resources
+D:\DATA MIGUEL\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModReporte.Reporte.rptPrueba.resources
+D:\Proyectos\ERPFLys\CapaZLys\bin\Debug\FiltroLys.ZLys.exe.config
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.exe
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.pdb
+D:\Proyectos\ERPFLys\CapaZLys\bin\Debug\FiltroLys.ZLys.exe
+D:\Proyectos\ERPFLys\CapaZLys\bin\Debug\FiltroLys.ZLys.pdb
+D:\Proyectos\ERPFLys\CapaZLys\bin\Debug\FiltroLys.Domain.dll
+D:\Proyectos\ERPFLys\CapaZLys\bin\Debug\FiltroLys.Model.dll
+D:\Proyectos\ERPFLys\CapaZLys\bin\Debug\FiltroLys.Type.dll
+D:\Proyectos\ERPFLys\CapaZLys\bin\Debug\FiltroLys.Repository.dll
+D:\Proyectos\ERPFLys\CapaZLys\bin\Debug\FiltroLys.Query.dll
+D:\Proyectos\ERPFLys\CapaZLys\bin\Debug\FiltroLys.Model.pdb
+D:\Proyectos\ERPFLys\CapaZLys\bin\Debug\FiltroLys.Domain.pdb
+D:\Proyectos\ERPFLys\CapaZLys\bin\Debug\FiltroLys.Type.pdb
+D:\Proyectos\ERPFLys\CapaZLys\bin\Debug\FiltroLys.Repository.pdb
+D:\Proyectos\ERPFLys\CapaZLys\bin\Debug\FiltroLys.Query.pdb
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.csprojResolveAssemblyReference.cache
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.Busqueda.Contabilidad.frmBusqAsientoModelo.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.Busqueda.Contabilidad.frmBusqImportacion.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.Busqueda.Contabilidad.frmBusqObligacion.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.Busqueda.General.frmBusqPersona.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.Busqueda.General.frmBusqProyecto.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.Busqueda.General.frmBusqFlujoCaja.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.Busqueda.General.frmBusqCentroCosto.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.Busqueda.General.frmBusqMaquina.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.Busqueda.General.frmBusqCtaContable.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.Busqueda.General.frmBusqMain.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.Controles.Formulario.frmList.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.Controles.Formulario.frmMaestro.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.Controles.Formulario.frmMant.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.Controles.Formulario.frmResponse.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.Controles.Objeto.GridControlUI.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.Errores.frmErrMain.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.Inicio.frmEspere.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.Inicio.frmInicioContabilidad.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.Inicio.frmLogin.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.Inicio.frmMdi.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.Controles.Formulario.frmMain.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\DevExpress.XtraBars.Demos.RibbonSimplePad.HelpControl.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.Inicio.frmProgresoBar.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModContabilidad.frmBloqPeriodoTrabajo.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModContabilidad.frmCierreMensual.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModContabilidad.frmSaldoxCuentaDet.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModContabilidad.frmMayorizacionGene.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModContabilidad.frmMayorizacionList.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModContabilidad.frmSaldoxCuenta.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModContabilidad.frmSelPeriodoTrabajo.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModContabilidad.frmVoucherList.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModContabilidad.frmVoucherMant.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModMaestro.Contabilidad.frmCuentaContable.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModMaestro.Contabilidad.frmTipoGasto.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModMaestro.Contabilidad.frmTipoCuentaBalComp.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModMaestro.Contabilidad.frmRubroGasto.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModMaestro.Contabilidad.frmProyecto.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModMaestro.Contabilidad.frmLineaProducto.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModMaestro.Contabilidad.frmTipoActivo.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModMaestro.Contabilidad.frmElementoGasto.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModMaestro.Contabilidad.frmGrupoElementoGasto.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModMaestro.Contabilidad.frmRelCtaGenEmp.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModMaestro.Contabilidad.frmCuentaMayor05.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModMaestro.Contabilidad.frmCuentaMayor04.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModMaestro.Contabilidad.frmAsientoModelo.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModMaestro.Contabilidad.frmArea.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModMaestro.Contabilidad.frmCuentaMayor.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModMaestro.Contabilidad.frmCorrelativoVoucher.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModMaestro.Contabilidad.frmClasificacionMayor.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModMaestro.Contabilidad.frmTipoVoucher.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModMaestro.frmMaestrosMain.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModMaestro.General.frmTipoCambioPeriodo.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModMaestro.General.frmTipoCambio.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModMaestro.General.frmPeriodoCierreCia.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModMaestro.General.frmDistrito.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModMaestro.General.frmParametro.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModMaestro.General.frmProvincia.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModMaestro.General.frmDepartamento.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModMaestro.General.frmPaises.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModMaestro.RRHH.frmSucursal.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModMaestro.RRHH.frmTipoPersonaUsuario.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModMaestro.RRHH.frmDepartCia.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModMaestro.RRHH.frmCentroCosto.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModMaestro.RRHH.frmClasifCentroCosto.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModMaestro.Tesoreria.frmTipoServicio.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModMaestro.Tesoreria.frmTipoPago.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.Controles.Formulario.frmReporte.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModReporte.Formulario.Contabilidad.frmRptLibroDiario.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModReporte.Reporte.rptPrueba.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.ModReporte.frmReportesMain.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.PrintRibbonControllerResources.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.Properties.Resources.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\DevExpress.XtraBars.Demos.RibbonSimplePad.RibbonApplicationUserControl.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.Inicio.frmSplash.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.Seguridad.frmListAuditoria.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.Sistema.frmListTabla.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.XRDesignRibbonControllerResources.resources
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.csproj.GenerateResource.Cache
+D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.exe.licenses

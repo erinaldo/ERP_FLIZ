@@ -1,0 +1,44 @@
+D:\DATA MIGUEL\PTeam\CapaData\bin\Debug\FiltroLys.Repository.dll
+D:\DATA MIGUEL\PTeam\CapaData\bin\Debug\FiltroLys.Repository.pdb
+D:\DATA MIGUEL\PTeam\CapaData\bin\Debug\FiltroLys.Model.dll
+D:\DATA MIGUEL\PTeam\CapaData\bin\Debug\FiltroLys.Query.dll
+D:\DATA MIGUEL\PTeam\CapaData\bin\Debug\FiltroLys.Model.pdb
+D:\DATA MIGUEL\PTeam\CapaData\bin\Debug\FiltroLys.Query.pdb
+D:\DATA MIGUEL\PTeam\CapaData\obj\Debug\FiltroLys.Repository.csprojResolveAssemblyReference.cache
+D:\DATA MIGUEL\PTeam\CapaData\obj\Debug\FiltroLys.Repository.dll
+D:\DATA MIGUEL\PTeam\CapaData\obj\Debug\FiltroLys.Repository.pdb
+D:\DATA MIGUEL\PTeam\CapaData\bin\Debug\FiltroLys.Type.dll
+D:\DATA MIGUEL\PTeam\CapaData\bin\Debug\FiltroLys.Type.pdb
+D:\DATA MIGUEL\ERPLys\CapaData\bin\Debug\FiltroLys.Repository.dll
+D:\DATA MIGUEL\ERPLys\CapaData\bin\Debug\FiltroLys.Repository.pdb
+D:\DATA MIGUEL\ERPLys\CapaData\bin\Debug\FiltroLys.Model.dll
+D:\DATA MIGUEL\ERPLys\CapaData\bin\Debug\FiltroLys.Query.dll
+D:\DATA MIGUEL\ERPLys\CapaData\bin\Debug\FiltroLys.Type.dll
+D:\DATA MIGUEL\ERPLys\CapaData\bin\Debug\FiltroLys.Model.pdb
+D:\DATA MIGUEL\ERPLys\CapaData\bin\Debug\FiltroLys.Query.pdb
+D:\DATA MIGUEL\ERPLys\CapaData\bin\Debug\FiltroLys.Type.pdb
+D:\DATA MIGUEL\ERPLys\CapaData\obj\Debug\FiltroLys.Repository.csprojResolveAssemblyReference.cache
+D:\DATA MIGUEL\ERPLys\CapaData\obj\Debug\FiltroLys.Repository.dll
+D:\DATA MIGUEL\ERPLys\CapaData\obj\Debug\FiltroLys.Repository.pdb
+D:\DATA MIGUEL\ERPFLys\CapaData\bin\Debug\FiltroLys.Repository.dll
+D:\DATA MIGUEL\ERPFLys\CapaData\bin\Debug\FiltroLys.Repository.pdb
+D:\DATA MIGUEL\ERPFLys\CapaData\bin\Debug\FiltroLys.Model.dll
+D:\DATA MIGUEL\ERPFLys\CapaData\bin\Debug\FiltroLys.Query.dll
+D:\DATA MIGUEL\ERPFLys\CapaData\bin\Debug\FiltroLys.Type.dll
+D:\DATA MIGUEL\ERPFLys\CapaData\bin\Debug\FiltroLys.Model.pdb
+D:\DATA MIGUEL\ERPFLys\CapaData\bin\Debug\FiltroLys.Query.pdb
+D:\DATA MIGUEL\ERPFLys\CapaData\bin\Debug\FiltroLys.Type.pdb
+D:\DATA MIGUEL\ERPFLys\CapaData\obj\Debug\FiltroLys.Repository.csprojResolveAssemblyReference.cache
+D:\DATA MIGUEL\ERPFLys\CapaData\obj\Debug\FiltroLys.Repository.dll
+D:\DATA MIGUEL\ERPFLys\CapaData\obj\Debug\FiltroLys.Repository.pdb
+D:\Proyectos\ERPFLys\CapaData\bin\Debug\FiltroLys.Repository.dll
+D:\Proyectos\ERPFLys\CapaData\bin\Debug\FiltroLys.Repository.pdb
+D:\Proyectos\ERPFLys\CapaData\bin\Debug\FiltroLys.Model.dll
+D:\Proyectos\ERPFLys\CapaData\bin\Debug\FiltroLys.Query.dll
+D:\Proyectos\ERPFLys\CapaData\bin\Debug\FiltroLys.Type.dll
+D:\Proyectos\ERPFLys\CapaData\bin\Debug\FiltroLys.Model.pdb
+D:\Proyectos\ERPFLys\CapaData\bin\Debug\FiltroLys.Query.pdb
+D:\Proyectos\ERPFLys\CapaData\bin\Debug\FiltroLys.Type.pdb
+D:\Proyectos\ERPFLys\CapaData\obj\Debug\FiltroLys.Repository.csprojResolveAssemblyReference.cache
+D:\Proyectos\ERPFLys\CapaData\obj\Debug\FiltroLys.Repository.dll
+D:\Proyectos\ERPFLys\CapaData\obj\Debug\FiltroLys.Repository.pdb
