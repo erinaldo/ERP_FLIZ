@@ -188,3 +188,6 @@ D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.Sistema.frmListTabla.reso
 D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.XRDesignRibbonControllerResources.resources
 D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.csproj.GenerateResource.Cache
 D:\Proyectos\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.exe.licenses
+D:\GIT_REPOSITORY\ERPFLys\CapaZLys\bin\Debug\FiltroLys.ZLys.exe.config
+D:\GIT_REPOSITORY\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.exe
+D:\GIT_REPOSITORY\ERPFLys\CapaZLys\obj\Debug\FiltroLys.ZLys.pdb
