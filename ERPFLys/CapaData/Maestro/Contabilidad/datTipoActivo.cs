@@ -9,6 +9,7 @@ using FiltroLys.Query.Maestro.Contabilidad;
 using FiltroLys.Model.Maestro.Contabilidad;
 using FiltroLys.Model.Objeto;
 using FiltroLys.Type;
+using FiltroLys.Repository.Objeto;
 
 namespace FiltroLys.Repository.Maestro.Contabilidad
 {
@@ -31,7 +32,7 @@ namespace FiltroLys.Repository.Maestro.Contabilidad
                 Cmd.Parameters.Add(new SqlParameter("@Opcion", SqlDbType.VarChar)).Value = Constans.OPCION_1;
                 SqlDataAdapter adapter = new SqlDataAdapter();
                 adapter.SelectCommand = Cmd;
-              
+
                 adapter.Fill(dt);
                 if (Cmd.Connection.State == ConnectionState.Open)
                 {
@@ -59,10 +60,10 @@ namespace FiltroLys.Repository.Maestro.Contabilidad
                 Cmd.Parameters.Add(new SqlParameter("@TipoActivo", SqlDbType.VarChar)).Value = TipoActivo;
                 Cmd.Parameters.Add(new SqlParameter("@Accion", SqlDbType.VarChar)).Value = Constans.LISTA;
                 Cmd.Parameters.Add(new SqlParameter("@Opcion", SqlDbType.VarChar)).Value = Constans.OPCION_2;
-                
+
                 SqlDataAdapter adapter = new SqlDataAdapter();
                 adapter.SelectCommand = Cmd;
-               
+
                 adapter.Fill(dt);
                 if (Cmd.Connection.State == ConnectionState.Open)
                 {
@@ -156,32 +157,18 @@ namespace FiltroLys.Repository.Maestro.Contabilidad
                     Cmd.Parameters.Clear();
                     Cmd.CommandText = sProc;
 
-                    if (Data.OperMantenimiento == fnEnum.OperacionMant.Insertar || Data.OperMantenimiento == fnEnum.OperacionMant.Modificar)
-                    {
-                        if (Data.OperMantenimiento == fnEnum.OperacionMant.Insertar)
-                        {
-                            Cmd.Parameters.Add(new SqlParameter("@Accion", SqlDbType.VarChar)).Value = Constans.INSERTAR;
-                        }
-                        else
-                        {
-                            Cmd.Parameters.Add(new SqlParameter("@Accion", SqlDbType.VarChar)).Value = Constans.ACTUALIZAR;
-                        }
 
-                        Cmd.Parameters.Add(new SqlParameter("@TipoActivo", SqlDbType.VarChar)).Value = Data.TipoActivo;
-                        Cmd.Parameters.Add(new SqlParameter("@Descripcion", SqlDbType.VarChar)).Value = Data.Descripcion;
-                        Cmd.Parameters.Add(new SqlParameter("@Control", SqlDbType.VarChar)).Value = Data.Control;
-                        Cmd.Parameters.Add(new SqlParameter("@Porcentaje", SqlDbType.Decimal)).Value = Data.Porcentaje;
-                        Cmd.Parameters.Add(new SqlParameter("@Estado", SqlDbType.VarChar)).Value = Data.Estado;
-                        Cmd.Parameters.Add(new SqlParameter("@UltimoUsuario", SqlDbType.VarChar)).Value = Data.UsuarioSys;
-                        Cmd.ExecuteNonQuery();
-                    }
-                    
-                    else if (Data.OperMantenimiento == fnEnum.OperacionMant.Eliminar)
-                    {
-                        Cmd.Parameters.Add(new SqlParameter("@Accion", SqlDbType.VarChar)).Value = Constans.DELETE;                      
-                        Cmd.Parameters.Add(new SqlParameter("@TipoActivo", SqlDbType.VarChar)).Value = Data.TipoActivo;
-                        Cmd.ExecuteNonQuery();
-                    }
+                    Cmd.Parameters.Add(new SqlParameter("@Accion", SqlDbType.VarChar)).Value = fnGetOpera.getOperacion(Data.OperMantenimiento); ;
+                    Cmd.Parameters.Add(new SqlParameter("@TipoActivo", SqlDbType.VarChar)).Value = Data.TipoActivo;
+                    Cmd.Parameters.Add(new SqlParameter("@Descripcion", SqlDbType.VarChar)).Value = Data.Descripcion;
+                    Cmd.Parameters.Add(new SqlParameter("@Control", SqlDbType.VarChar)).Value = Data.Control;
+                    Cmd.Parameters.Add(new SqlParameter("@Porcentaje", SqlDbType.Decimal)).Value = Data.Porcentaje;
+                    Cmd.Parameters.Add(new SqlParameter("@Estado", SqlDbType.VarChar)).Value = Data.Estado;
+                    Cmd.Parameters.Add(new SqlParameter("@UltimoUsuario", SqlDbType.VarChar)).Value = Data.UsuarioSys;
+                    Cmd.ExecuteNonQuery();
+
+
+
 
                     Trs.Commit();
                     entErr.Resultado = true;
